@@ -1,3 +1,5 @@
+> **Note:** This repository is a personal backup of coursework originally developed as part of my studies at Cornerstone College. It was cloned from a institutional and private repository to preserve my contributions and development history.
+
 ### Responsive Navbar Task
 
 You are provided with the `index.html` file. Your task is to create and attach a CSS file to make the navbar dynamic using media queries. Follow the guidelines below:
@@ -34,4 +36,3 @@ logo  home  about  ...
 
 - **Web:** <br>
 logo  -------  home  about  ...
-
